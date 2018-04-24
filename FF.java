@@ -83,7 +83,7 @@ class FF {
 					if (temp.contains("9"))
 						continue;
 				} 
-				// Else it is a terminal and hence we stop
+				// Else it is a terminal
 				else{
 					str = str + grmr[i][j].charAt(k);
 				}
