@@ -56,3 +56,18 @@ int main()
 
     return 0;
 }
+
+/*
+yash@yash-Inspiron-7560:~/Documents/College/SPCC/SPCC/ICG$ ./3c
+Enter the string without any spaces: a>b||a>c
+100: if a>b goto 103
+101: t1=0
+102: goto 104
+103: t1=1
+104: if a>c goto 107
+105: t2=0
+106: goto 108
+107: t2=1
+108: t3=t1||t2
+
+*/
