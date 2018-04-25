@@ -1,0 +1,5 @@
+
+PRG	0	2	R
+FOUR	10	2	R
+FIVE	12	2	R
+TEMP	14	2	R
