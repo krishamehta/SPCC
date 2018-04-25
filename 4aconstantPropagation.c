@@ -44,3 +44,16 @@ void main()
 	before_optimize();
 	after_optimize();
 }
+
+/*
+yash@yash-Inspiron-7560:~/Documents/College/SPCC/SPCC$ ./4a
+
+Result before optimization: 50
+
+Time taken = 0.000003
+
+Result after optimization: 50
+
+Time taken = 0.000002
+
+*/
