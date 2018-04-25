@@ -47,12 +47,10 @@ void main()
 	}
 
 	
-	while(count != 0){
-		fprintf(fcala, "%s\n",t2); // Insert data into CALA
-		fscanf(finput,"%s%s",t1,t2);
-		count--; // Can use any counter which has a value of 2.
-	}
-
+	
+	fprintf(fcala, "%s\n",t2); // Insert data into CALA
+	fscanf(finput,"%s",t2);
+	fprintf(fcala, "%s\n",t2);
 
 	fclose(finput);
 	fclose(fmnt);
