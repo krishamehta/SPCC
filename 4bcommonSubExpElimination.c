@@ -50,3 +50,26 @@ void main()
     before_optimise();
     after_optimise();
 }
+
+/*
+yash@yash-Inspiron-7560:~/Documents/College/SPCC$ ./4b
+
+Enter the value of radius:
+5
+
+The Circumference of circle is:31.400002
+
+The Area of circle is:78.500000
+
+Time taken = 0.000088
+
+Enter the value of radius:
+5
+
+The Circumference of circle is:31.400002
+
+The Area of circle is:78.500000
+
+Time taken = 0.000068
+
+*/

@@ -35,3 +35,12 @@ void main()
 	printf("\nValue of global variable after optimization %d",b);
 	printf("\nTime taken: %f", ((double)(end-start))/CLOCKS_PER_SEC );
 }
+
+/*
+yash@yash-Inspiron-7560:~/Documents/College/SPCC$ ./4e
+
+Value of global variable before optimization 2
+Time taken: 0.000004
+Value of global variable after optimization 2
+Time taken: 0.000003
+*/

@@ -60,5 +60,15 @@ void main()
     after_movement(b,c);
 }
 
+/*
+yash@yash-Inspiron-7560:~/Documents/College/SPCC$ ./4d
+
+Enter the values of b and c:123 4567
+
+Before Code movement Optimization
+Result: 1123482Time taken = 0.000004
+After code movement optimization
+Result: 1123482Time taken = 0.000002
+*/
      
      
